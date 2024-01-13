@@ -1,3 +1,3 @@
 # Sharp Studio
 
-[https://sharpstudio.io](www.SharpStudio.io]
+[https://sharpstudio.io](www.SharpStudio.io)
