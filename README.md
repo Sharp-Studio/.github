@@ -1,3 +1,3 @@
 # .github
 
-sharpstudio.io
+[SharpStudio.io](http://www.sharpstudio.io)
